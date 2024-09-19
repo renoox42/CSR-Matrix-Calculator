@@ -6,8 +6,8 @@
 </p>
 <h2>Format</h2>
 <p>
-  m,n
-  v1,v2,v3,...,vn
-  c1,c2,c3,...,cn
-  r1,r2,r3,...,rn
+  m,n <br>
+  v1,v2,v3,...,vn <br>
+  c1,c2,c3,...,cn <br>
+  r1,r2,r3,...,rn <br>
 </p>
