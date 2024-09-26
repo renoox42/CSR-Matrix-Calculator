@@ -8,7 +8,7 @@
 <p>Guide on the general format: https://pnxguide.medium.com/compressed-sparse-row-motivation-and-explanation-cd92c71b7cfa</p>
 <h2>How do I use this calculator?</h2>
 <p>
-  Matrices are given to the calculator in .txt files. The format must exactly follow the specifications below. <br><br>
+  Matrices are given to the calculator in .txt files. The format must exactly follow the specifications below. Numbers may be floats or integers. <br><br>
   Compilation: <br>
   Navigate to the "Code" directory. Make sure you have Make and a C compiler (e.g. gcc, clang) installed. Then simply run "make". This creates the executable calculator called "program". <br> <br>
   Usage: <br>
