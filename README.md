@@ -10,7 +10,7 @@
 <p>
   Matrices are given to the calculator in .txt files. The format must exactly follow the specifications below. <br><br>
   Compilation: <br>
-  Navigate to the "Code" directory. Make sure you have Make installed. Then simply run "make". This creates the executable calculator called "program". <br> <br>
+  Navigate to the "Code" directory. Make sure you have Make and a C compiler (e.g. gcc, clang) installed. Then simply run "make". This creates the executable calculator called "program". <br> <br>
   Usage: <br>
   -------------- <br>
   ./program [OPTIONS] <br>
